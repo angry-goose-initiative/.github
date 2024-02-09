@@ -8,7 +8,7 @@ The goal of the AGI is to create a softcore RISC-V CPU that’s capable of runni
 
 # [IRVE](https://github.com/angry-goose-initiative/irve)
 
-**[IRVE](https://github.com/angry-goose-initiative/irve)** is the first step on our journey. The plan is to use it to better understand the RISC-V architecture (with a focus on Volume 2 in particular).
+**[IRVE](https://github.com/angry-goose-initiative/irve)** is the first step on our journey as a fully-Linux-capable RISC-V emulator! The plan is to use it to better understand the RISC-V architecture (with a focus on Volume 2 in particular).
 
 **If you're interested messing around with the project, this is a great place to start!**
 
@@ -17,6 +17,8 @@ The goal of the AGI is to create a softcore RISC-V CPU that’s capable of runni
 We're now wrapping up the emulator and are currently in the design phase of our SystemVerilog hardware implementation called **[LETC](https://github.com/angry-goose-initiative/letc)**!
 
 It will be a 6-stage in-order pipelined design, targeting the Cora Z7 devboard containing a Zync 7000 FPGA. It will have TLBs, caches, a hardware page table walker, and will accesses peripherals and memory over an AXI interconnect of our own making!
+
+Exciting stuff! We'll be using everything we've learned to make this a performant, and fully-Linux-capable RISC-V implementation!
 
 # [RVSW](https://github.com/angry-goose-initiative/rvsw)
 
