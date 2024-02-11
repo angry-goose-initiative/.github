@@ -36,7 +36,7 @@ It will facilitate loading test binaries and kernels into memory for LETC, manag
 
 # Linux-y Stuffs!
 
-We also maintain a fork of the kernel [here](https://github.com/angry-goose-initiative/linux), and have tools to automate setting up a Linux image for AGI project in the [build-linux](https://github.com/angry-goose-initiative/build-linux) repo.
+We also maintain a fork of the kernel [here](https://github.com/angry-goose-initiative/linux), and have tools to automate setting up a Linux image for AGI projects in the [build-linux](https://github.com/angry-goose-initiative/build-linux) repo.
 
 # Pronunciation
 
