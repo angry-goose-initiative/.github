@@ -4,7 +4,7 @@
 
 # So what is AGI?
 
-The goal of the AGI is to create a softcore RISC-V CPU that’s capable of running the Linux kernel!
+The goal of the project is to create a softcore RISC-V CPU that’s capable of running the Linux kernel!
 
 # [IRVE](https://github.com/angry-goose-initiative/irve)
 
