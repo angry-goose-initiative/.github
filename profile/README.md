@@ -10,7 +10,7 @@ The goal of the project is to create a softcore RISC-V CPU that’s capable of r
 
 **[IRVE](https://github.com/angry-goose-initiative/irve)** is the first step on our journey as a fully-Linux-capable RISC-V emulator! The plan is to use it to better understand the RISC-V architecture (with a focus on Volume 2 in particular).
 
-TODO: Here's a YouTube video of me (JZJ) using Linux on the emulator. Yes, IRVE can in fact emulate itself!
+[Here's a YouTube video of me (JZJ) using Linux on the emulator](https://youtu.be/7bEB80RHVqs). Yes, IRVE can in fact emulate itself!
 
 **If you're interested messing around with the project, [this is a great place to start](https://github.com/angry-goose-initiative/wiki/wiki/Quickstart:-Running-Hello-World-on-IRVE)**!
 
